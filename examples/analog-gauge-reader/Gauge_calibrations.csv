@@ -2,5 +2,4 @@ ID,Min Angle,Max Angle,Min Value,Max Value,Units
 speedo,59,300,0,220,kph
 gr001,43,313,0,80,PSI
 demo,52,319,10,200,PSI
-gr004,42,314,0,80,kph
-
+gr004,45,315,0,80,kph
